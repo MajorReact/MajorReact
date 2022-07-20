@@ -21,7 +21,7 @@ I have some experience of use these technology or tools for development.
 </a>
 
 <a href="https://www.mongodb.com/docs/" target="_blank" style="text-decoration:none;" rel="noreferrer" title="MongoDB">
-<img width="40" height="40" src="https://user-images.githubusercontent.com/94718571/180044961-69575cd6-a8c4-48e3-b86c-60f31e28f421.png" />
+<img width="40" height="40" src="https://user-images.githubusercontent.com/94718571/180047051-2f842e06-c801-443c-ad5a-583c1ce257a5.png" />
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration:none;" rel="noreferrer" title="JavaScript">
