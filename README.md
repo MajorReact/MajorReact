@@ -42,10 +42,10 @@ I have some experience of use these technology or tools for development.
 
 ## 🚀 Side Projects
 
-- [E-commerce store](https://github.com/MajorReact/https-github.com-MajorReact-teska-estore)
-- [Daily Planner](https://github.com/MajorReact/Bitz-daily-planner)
-- [Support Desk Tracker](https://github.com/MajorReact/Teska-Help-Desk-Support)
-- [Todo-React](https://github.com/MajorReact/Todo)
+- [E-commerce store](https://https-github-com-major-react-teska-estore-nd5jxoej1-majorreact.vercel.app/)
+- [Daily Planner](https://daily-planner-bybitz.herokuapp.com)
+- [Support Desk Tracker](https://teska-help-desk-support.herokuapp.com/)
+- [Product Landing page](https://sambuildsportfolio.herokuapp.com/)
 
 ## 📦 GitHub Stats
 
